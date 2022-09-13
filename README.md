@@ -1,7 +1,6 @@
-# 김한별
+<h1 align= "center" >Ai Control
+<p align = "center">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-나의 마크다운 파일입니다  
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <br/>
-<br/>
-
-## 제목 2
+<h2 align="center"> 나의 첫번째 마크다운 파일
+<p>
