@@ -4,11 +4,11 @@
 
 ## 취미
 
-#### - 게임
+- 게임
 
 <img src="./photo/gameimg.jpg">  
 
-#### - 책읽기
+- 책읽기
 
 <img src="./photo/book.jpg">
 
