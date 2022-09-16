@@ -6,11 +6,11 @@
 
 #### - 게임
 
-<img src="https://raw.githubusercontent.com/ttnt5/AiControl/main/photo/gameimg.jpg?token=GHSAT0AAAAAABYN6I4VLKE6T33NHJGJZDNOYZEDCIA">  
+<img src="./photo/gameimg.jpg">  
 
 #### - 책읽기
 
-<img src="https://raw.githubusercontent.com/ttnt5/AiControl/main/photo/book.jpg?token=GHSAT0AAAAAABYN6I4VFPBV2AJEQL6PDMQSYZEEFZQ">
+<img src="./photo/book.jpg">
 
 
 ## 나의 장점
