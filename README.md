@@ -3,11 +3,13 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
-## 취미
+## 1. 취미
 * 게임
-![](https://github.com/ttnt5/AiControl/blob/main/사진/사진.jpg)
- https://github.com/ttnt5/AiControl/blob/main/%EC%82%AC%EC%A7%84/%EC%82%AC%EC%A7%84.jpg
 
- * 첫 번째 주제에 대한 제목입니다.
- ### 김한별
+  <img src="https://raw.githubusercontent.com/ttnt5/AiControl/main/photo/gameimg.jpg?token=GHSAT0AAAAAABYN6I4VLKE6T33NHJGJZDNOYZEDCIA">
+
+
+* 책 읽기
+
+
 
