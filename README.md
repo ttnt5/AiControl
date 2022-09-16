@@ -1,4 +1,4 @@
-<h1 align= "center" >Ai Control
+<h1 align= "center" > 자기소개
 <p align = "center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
