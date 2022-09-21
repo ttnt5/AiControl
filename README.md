@@ -1,14 +1,14 @@
-<h1 align= "center" >Ai Control
+<h1 align= "center" > 자기소개
 <p align = "center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ## 취미
 
-#### - 게임
+- 게임
 
 <img src="./photo/gameimg.jpg">  
 
-#### - 책읽기
+- 책읽기
 
 <img src="./photo/book.jpg">
 
