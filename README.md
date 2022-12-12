@@ -56,7 +56,7 @@
 
 * [gesture-recognition by kairess](https://github.com/kairess/gesture-recognition)
 
-# 프로젝트 실행 과정
+# 프로젝트 실행
 
 학습
 1. 데이터셋.py 를 실행시킨후 웹캠으로 0도 90도 180도에 대한 데이터셋을 만듭니다.
