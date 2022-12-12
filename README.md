@@ -5,13 +5,7 @@
 ## 취미
 
 - 게임
-
-<img src="./photo/gameimg.jpg">  
-
 - 책읽기
-
-<img src="./photo/book.jpg">
-
 
 ## 나의 장점
 - 자기가 맡은일을 끈기있게 함
